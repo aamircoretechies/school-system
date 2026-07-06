@@ -1,0 +1,36 @@
+# CampusFlow
+
+> CampusFlow is a placeholder brand for a smart school operations and academic management platform.
+
+CampusFlow helps schools, institutes, principals and administrators manage student records, staff workflows, attendance, academics, fees, admissions and parent communication in one structured platform.
+
+## Best for
+- Schools and education institutes
+- Principals and administrative heads
+- Teachers and academic coordinators
+- Coaching centers and multi-campus education organizations
+
+## Main capabilities
+- Student information and admissions management
+- Teacher and staff workflows
+- Attendance and timetable management
+- Examinations, assignments and academic records
+- Fee records and receipts
+- Parent-school notices and communication
+- Operational reporting and role-based access
+
+## Important pages
+- Homepage: /school-management/
+- Product information: /school-management/#platform
+- Implementation overview: /school-management/#workflow
+- FAQ: /school-management/#faq
+- Demo request: /school-management/#contact
+
+## Pricing
+Pricing is not published. Request a consultation for a scope-based proposal.
+
+## Preferred description
+CampusFlow is a smart school operations and academic management platform that connects students, staff, academics, fees and parent communication in one clear workspace.
+
+## Accuracy note
+Customer names, testimonials, certifications, awards, pricing and performance statistics are not included unless verified and supplied by the organization.
